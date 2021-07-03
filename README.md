@@ -13,4 +13,8 @@ This Chrome Extension can be used in local machine
 6. Select the saved Folder and enable it to use on your browser.
 
 In the HTML code link to particular media application can be changed to users personal login link which will further ease in navigating.
+Below are the attached Screenshot of the extension
 ![1625232891967](https://user-images.githubusercontent.com/59816379/124355882-0fb59a00-dc31-11eb-9a02-659c2642861d.jpg)
+![1625232891975 (1)](https://user-images.githubusercontent.com/59816379/124355955-5acfad00-dc31-11eb-818e-c11ecc1c62d5.jpg)
+![1625232891975](https://user-images.githubusercontent.com/59816379/124355969-64f1ab80-dc31-11eb-999f-762288712aae.jpg)
+
